@@ -1,2 +1,2 @@
 # тема 1. Youtube Канал
-<h2 color='red'>HTML<h2>
+<h2 color:yellow>HTML<h2>
