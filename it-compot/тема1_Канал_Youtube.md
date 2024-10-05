@@ -1,3 +1,3 @@
 # тема 1. Youtube Канал
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <span font-size="50">HTML</span>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <span style="color: red; font-size: 40px;">HTML</span>
